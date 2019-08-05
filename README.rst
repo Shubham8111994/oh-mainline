@@ -62,3 +62,4 @@ The OpenHatch code base will be in transition over the course of 2016. Here are 
   open to all to participate.
 
 See: http://lists.openhatch.org/pipermail/devel/2015-December/003872.html
+https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178
